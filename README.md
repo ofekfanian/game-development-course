@@ -8,6 +8,8 @@ Unity projects built for the Game Development course.
 |---|---|---|
 | [`FairytaleVillage/`](FairytaleVillage) | **Homework 1** – a fairytale village on two banks of a river: houses, paths, a pub, a bridge and market stalls. | 6000.5.7f1 (URP) |
 
+Submission videos are in [`videos/`](videos).
+
 The final project lives in its own repository: **bank-heist**.
 
 ## FairytaleVillage
@@ -24,5 +26,5 @@ The generator is [`Assets/Editor/VillageBuilder.cs`](FairytaleVillage/Assets/Edi
 To keep the repository small, the following are left out:
 
 - `Library/`, `Logs/`, `Temp/`, `UserSettings/` – Unity regenerates them when the project opens
-- Screen recordings and videos
+- Raw screen recordings
 - Asset files larger than 20 MB (Mixamo `.fbx` characters/animations) – download them again from [Mixamo](https://www.mixamo.com) into `Assets/Mixamo/`

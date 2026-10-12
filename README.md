@@ -29,7 +29,15 @@
   </tr>
 </table>
 
-🎥 Submission video: [`videos/Task3.mp4`](videos/Task3.mp4)
+## 🎥 Submission video
+
+<p align="center">
+  <a href="https://github.com/ofekfanian/game-development-course/blob/main/videos/Task3.mp4">
+    <img src="docs/village.jpg" alt="Watch the Task 3 video" width="720">
+  </a>
+  <br>
+  <a href="https://github.com/ofekfanian/game-development-course/blob/main/videos/Task3.mp4"><b>▶ Watch Task 3</b></a> · 1:08
+</p>
 
 ## 🛠️ Rebuilding the village
 
